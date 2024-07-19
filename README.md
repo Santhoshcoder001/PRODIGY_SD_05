@@ -21,7 +21,6 @@ A simple Python application that scrapes product information (names, prices, and
 
 1. Clone the repository or download the script.
 
-```sh
 git clone https://github.com/Santhoshcoder001/PRODIGY_SD_05.git
 
 cd PRODIGY_SD_05
